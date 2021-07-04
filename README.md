@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RestuRHP&hide=javascript,php,blade,dockerfile&layout=compact)](https://github.com/RestuRHP/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RestuRHP&hide=javascript,php,blade,dockerfile&layout=compact&theme=dark&show_icons=true)](https://github.com/RestuRHP/github-readme-stats) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestuRHP)](https://github.com/RestuRHP/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestuRHP&theme=dark&show_icons=true)](https://github.com/RestuRHP/github-readme-stats)
 
