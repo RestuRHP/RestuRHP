@@ -1,24 +1,17 @@
-<!-- ### Hi there 👋 -->
+I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
 
-<!--
-**RestuRHP/RestuRHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RestuRHP&hide=javascript,php,blade,dockerfile&layout=compact&theme=dark&show_icons=true)](https://github.com/RestuRHP/github-readme-stats) 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestuRHP&theme=dark&show_icons=true)](https://github.com/RestuRHP/github-readme-stats)
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RestuRHP&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+- 🌱 Currently exploring [Go](https://go.dev/)
+- 🔭 Most of my Flutter Apps using [Bloc](https://bloclibrary.dev) & [GetX](https://pub.dev/packages/get) State Management
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
+- 📣 Native Indonesian and quite fluent in English
+- 🧑‍💻 Open to collaborating on great ideas
+- 🧛 Dark theme fanatic
 
 
+### Skills
+
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Visitor Count](https://profile-counter.glitch.me/{nazarrd}/count.svg) 
