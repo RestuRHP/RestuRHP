@@ -1,4 +1,4 @@
-I'm a Flutter Engineer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
+I'm a Flutter Engineer at [KAI](https://kai.id/) in Bandung, Indonesia 🌆
 
 - 🌱 Currently exploring [Rust](https://rust-lang.org/)
 - 🔭 Most of my Flutter Apps using [Bloc](https://bloclibrary.dev) & [GetX](https://pub.dev/packages/get) State Management
