@@ -1,6 +1,6 @@
 I'm a Flutter Engineer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
 
-- 🌱 Currently exploring [Go](https://go.dev/)
+- 🌱 Currently exploring [Rust](https://rust-lang.org/)
 - 🔭 Most of my Flutter Apps using [Bloc](https://bloclibrary.dev) & [GetX](https://pub.dev/packages/get) State Management
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 📣 Native Indonesian and quite fluent in English
