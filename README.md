@@ -23,5 +23,3 @@ I'm a Flutter Engineer at [KAI](https://kai.id/) in Bandung, Indonesia 🌆
 </div>
 
 ###
-
-![Visitor Count](https://profile-counter.glitch.me/{RestuRHP}/count.svg) 
